@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/drawable/bgr_bottomsheet_round_corners.xml" value="0.131" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/drawable/bgr_collection_item.xml" value="0.303" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/drawable/bgr_label_round_corners.xml" value="0.1" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/drawable/bgr_spinner_network.xml" value="0.1" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/drawable/gradient_text_view.xml" value="0.303" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/drawable/ic_add.xml" value="0.2545" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/drawable/ic_back.xml" value="0.2545" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/fragment_add_item.xml" value="0.33" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/fragment_wallet.xml" value="0.33" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/layout_print.xml" value="0.3661681279009799" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/spinner_network_drop_down.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/spinner_network_text_layout.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/viewholder_food_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/ERC/AndroidStudioProjects/QuickPay/app/src/main/res/layout/viewholder_menu_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
