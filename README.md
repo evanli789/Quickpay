@@ -6,3 +6,5 @@
  
  https://www.youtube.com/watch?v=zlUTHG3IJ6A
  
+ Prints to the Brother QL820NWB Label Printer
+ 
